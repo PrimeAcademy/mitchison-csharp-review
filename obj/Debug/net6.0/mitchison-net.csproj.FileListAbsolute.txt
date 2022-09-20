@@ -1,0 +1,15 @@
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/bin/Debug/net6.0/mitchison-net
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/bin/Debug/net6.0/mitchison-net.deps.json
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/bin/Debug/net6.0/mitchison-net.runtimeconfig.json
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/bin/Debug/net6.0/mitchison-net.dll
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/bin/Debug/net6.0/ref/mitchison-net.dll
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/bin/Debug/net6.0/mitchison-net.pdb
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/obj/Debug/net6.0/mitchison-net.csproj.AssemblyReference.cache
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/obj/Debug/net6.0/mitchison-net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/obj/Debug/net6.0/mitchison-net.AssemblyInfoInputs.cache
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/obj/Debug/net6.0/mitchison-net.AssemblyInfo.cs
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/obj/Debug/net6.0/mitchison-net.csproj.CoreCompileInputs.cache
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/obj/Debug/net6.0/mitchison-net.dll
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/obj/Debug/net6.0/ref/mitchison-net.dll
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/obj/Debug/net6.0/mitchison-net.pdb
+/Users/krisszafranski/Documents/prime/mitchison/lecture/w16/mitchison-net/obj/Debug/net6.0/mitchison-net.genruntimeconfig.cache
